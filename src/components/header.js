@@ -1,9 +1,7 @@
-import React from 'react';
+import React from "react";
 
 export default class Header extends React.Component {
   render() {
-    return (
-      <h1>React Todos</h1>
-    );
+    return <h1>Leahs Todo App</h1>;
   }
 }
