@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2152,3 +2153,7 @@ To resolve this:
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# To-Do-React-app-
+A simple to do app made in react 
+>>>>>>> 843cd7cbf0b5eeb3a29e64f310e11eb09bf813c4
